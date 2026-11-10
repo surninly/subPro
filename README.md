@@ -1,4 +1,4 @@
-﻿# 3-2 클라우드 컴퓨팅 쳇봇 기능이 있는 TODO 리스트
+# sumin-todolist-pro
 
 **데이노트(daynote)** — React와 JavaScript로 만든 챗봇 TODO 웹 앱입니다.
 
